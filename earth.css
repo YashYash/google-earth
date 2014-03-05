@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	
+
+#map3d{
+	width:100%;
+	length:100%;
+	margin-bottom:100px;
+	
+}
+
+#btn{
+	position:relative;
+	bottom:300px;
+	padding:0;
+	margin:0;
+}
+#back{
+	width:100%;
+}
+img{
+	width:100%;
+	length:100%;
+}
+
+#logo{
+	position:relative;
+	top:1000px;
+	width:100%;
+	length:100%;
+	margin-right:400px;
+	opacity:0.6;
+}
+
+#logo, #img{
+	margin-top:-1260px;
+	
+}

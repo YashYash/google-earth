@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<script type="text/javascript" src="jquery-2.0.3.min.js"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="earth.js"></script>
+
+
+
+<title>My Project</title>
+
+<div id="logo"><img src="../pange.png"/></div>
+<div id="map3d" ></div>
+    
+
+</body>
+</html>
